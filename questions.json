@@ -1,0 +1,41 @@
+{
+  "heading": "G6_Poetry writing Part - II(Writing)",
+  "topics": [
+    {
+      "heading": "Poetry writing Part - II(Writing)",
+      "questions": [
+        {
+          "questionNo": 1,
+          "type": "short",
+          "question": "Create a sentence using the word “jocund.”",
+          "text_area": "",
+          "answer": ["The teacher was in a jocund mood after the students performed well in the play."]
+        },
+        {
+          "questionNo": 2,
+          "type": "short",
+          "question": "Create a sentence using the word “sprightly.”",
+          "text_area": "",
+          "answer": ["The sprightly kitten jumped around the room, playing with a ball of yarn."]
+        },
+        {
+          "questionNo": 3,
+          "type": "short",
+          "question": "Create a sentence using the word “vales.”",
+          "text_area": "",
+          "answer": ["The early morning fog floated gently through the green vales between the hills."]
+        },
+        {
+          "questionNo": 4,
+          "type": "long",
+          "question": "<b>Imagine that your feelings can walk, talk, and behave like people. Fear can hide, joy can dance, anger can shout, and calm can whisper.</b><br>Write a three-stanza poem, with six lines in each stanza, using strong personification. <br><b>Stanza 1</b> – Introduce an Emotion as a Character <ul><li>Choose one emotion (fear, joy, anger, sadness, hope). </li><li>Describe what it is doing like a human.</li></ul><b>Stanza 2 </b>– A Conflict or Change <ul><li>Show what happens when another emotion enters. </li><li>Let the emotions interact like people.</li> </ul><b>Stanza 3</b> – Ending with a Lesson <ul><li>Show how the problem is solved. </li><li>End with growth, calm, strength, or happiness.</li></ul>",
+
+          "text_area": "",
+          "answer": [""]
+        }
+
+
+      ]
+    }
+  ]
+}
